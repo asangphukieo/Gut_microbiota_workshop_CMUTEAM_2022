@@ -10,5 +10,5 @@ Ref: https://ucdavis-bioinformatics-training.github.io/2021-May-Microbial-Commun
 5. Input files
 6. Data preprocessing
 7. Preprocessed reads to phyloseq object
-8. QIIME2 imprementation
+8. QIIME2 implementation
 9. Result visualization (by R)
