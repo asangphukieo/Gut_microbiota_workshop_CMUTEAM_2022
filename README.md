@@ -8,7 +8,6 @@ Ref: https://ucdavis-bioinformatics-training.github.io/2021-May-Microbial-Commun
 3. Introduction to command line interface
 4. Introduction to R
 5. Input files
-6. Data preprocessing
-7. Preprocessed reads to phyloseq object
-8. QIIME2 implementation
-9. Result visualization (by R)
+6. Data preprocessing by QIIME2 (taxonomy classification)
+7. Microbiota diversity visualization using R
+
