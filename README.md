@@ -1,6 +1,6 @@
 # Gut microbiota workshop by CMUTEAM 2022
-This repository was developed for gut microbiota workshop on 9-11 July 2022
-Ref: https://ucdavis-bioinformatics-training.github.io/2021-May-Microbial-Community-Analysis/data_reduction/filetypes
+This repository was developed for gut microbiota workshop on 9-11 July 2022 by CMUTEAM
+
 
 ## Instruction
 1. Software installation
